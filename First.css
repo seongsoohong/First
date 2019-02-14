@@ -23,7 +23,9 @@ div{
 }
 nav{
     width: 500px;
+    border:3px solid black;
+     background-color:lime
 }
-p.hometown {
-    background-color: yellow;
+.hometown p {
+    color: white;
   }

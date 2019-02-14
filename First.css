@@ -1,0 +1,23 @@
+#introduction {
+    background-color:antiquewhite;
+}
+#why{
+    background-color:aliceblue;
+}
+#picture{
+    background-color:darkblue;
+}
+a:hover{
+    background-color:rgb(205, 50, 159);
+}
+ol{
+    list-style-type:lower-alpha;
+}
+ul{
+    list-style-type: square;
+}
+div{
+    height:200px;
+    width:200px;
+    overflow: hidden;
+}

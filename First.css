@@ -21,3 +21,9 @@ div{
     width:200px;
     overflow: hidden;
 }
+nav{
+    width: 500px;
+}
+p.hometown {
+    background-color: yellow;
+  }
